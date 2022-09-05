@@ -30,9 +30,11 @@ app.get('/user/random', (req, res) => {
 //save a new user form user file
 app.post('/user/save', (req, res) => {
   const newUser = req.body
-
+  
+  //all user data
   const { photoUrl, name, gender, contact, address } = newUser
-
+  
+  //user data not found
   if (!photoUrl) {
     return res.status(422).send("Please provide a photoUrl of the user")
   }
