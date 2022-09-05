@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Wells Castro",
+        "gender": "male",
+        "contact": "+1 (865) 554-3722",
+        "address": "203 Crooke Avenue, Reinerton, Maine, 5753"
+    },
+    {
+        "id": 2,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Perry Jensen",
+        "gender": "male",
+        "contact": "+1 (851) 473-3189",
+        "address": "608 Wolcott Street, Clarktown, Nevada, 5377"
+    },
+    {
+        "id": 3,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Alexandra Hooper",
+        "gender": "female",
+        "contact": "+1 (879) 432-2100",
+        "address": "402 Heath Place, Cawood, Alaska, 1093"
+    },
+    {
+        "id": 4,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Barbra Meadows",
+        "gender": "female",
+        "contact": "+1 (832) 587-3723",
+        "address": "782 Haring Street, Troy, New Hampshire, 336"
+    },
+    {
+        "id": 5,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Nona Ferguson",
+        "gender": "female",
+        "contact": "+1 (972) 569-2374",
+        "address": "543 Story Street, Lund, Hawaii, 6515"
+    },
+    {
+        "id": 6,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Lela Horne",
+        "gender": "female",
+        "contact": "+1 (808) 496-2667",
+        "address": "464 Hull Street, Zeba, Minnesota, 1076"
+    },
+    {
+        "id": 7,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Helen Villarreal",
+        "gender": "female",
+        "contact": "+1 (823) 424-2131",
+        "address": "342 Coffey Street, Eastmont, Iowa, 7504"
+    },
+    {
+        "id": 8,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Hurley Koch",
+        "gender": "male",
+        "contact": "+1 (801) 546-2861",
+        "address": "197 Baycliff Terrace, Brogan, Pennsylvania, 2645"
+    },
+    {
+        "id": 9,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Amber Sims",
+        "gender": "female",
+        "contact": "+1 (976) 588-2654",
+        "address": "651 Graham Avenue, Brazos, Oklahoma, 8977"
+    },
+    {
+        "id": 10,
+        "photoUrl": "http://placehold.it/32x32",
+        "name": "Rita Herring",
+        "gender": "female",
+        "contact": "+1 (962) 579-3733",
+        "address": "642 Howard Alley, Kersey, South Carolina, 3281"
+    }
+]
