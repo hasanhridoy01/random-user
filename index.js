@@ -79,12 +79,14 @@ app.patch('/user/update', (req, res) => {
 //Delete a user
 app.delete('/user/delete', (req, res) => {
   const id = parseInt(req.body.id)
-
+  
+  //if don't find a user
   if (!id || id < 0) {
       return res.status(422).send("Please provide a valid user id")
   }
   const otherUsers = users.filter(user => user.id !== id)
 
+  //user lenght not match
   if (otherUsers.length === users.length) {
       return res.send("User cannot be found")
   }
